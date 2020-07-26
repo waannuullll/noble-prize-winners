@@ -3,3 +3,4 @@ Proyek ini berjudul "A Visual History of Noble Prize Winners", merupakan salah s
 - Kelahiran mana yang paling mendominasi pemenang hadiah Nobel.
 - Perbandingan jenis kelamin pemenang hadiah Nobel.
 - Perbandingan umur saat memenangkan hadiah Nobel setiap tahunnya, per kategori.
+File dalam Jupyter Notebook tersedia di halaman utama. Data yang diperlukan tersedia dalam folder datasets.
